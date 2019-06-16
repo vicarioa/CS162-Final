@@ -1,1 +1,3 @@
 # CS162-Final
+CS 162 Final Project. Object of the game is to move through several rooms and collect gems to escape the area. However, surprises await....
+
