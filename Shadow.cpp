@@ -1,11 +1,3 @@
-//
-//  Shadow.cpp
-//  FInalProject
-//
-//  Created by ANDY VICARIO on 12/3/18.
-//  Copyright © 2018 ANDY VICARIO. All rights reserved.
-//
-
 #include "Shadow.hpp"
 
 #include "Shadow.hpp"
